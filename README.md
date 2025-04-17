@@ -10,11 +10,11 @@
 ###  Install the Project
 
 ```bash
-git clone https://github.com/benjaminbenteke/Deep_RL_Project.git 
+git clone https://github.com/benjaminbenteke/Weather_Forecast.git
 ```
 
 ```bash
-cd Deep_RL_Project
+cd Weather_Forecast
 ```
 ### Virtual environment creation
 
@@ -72,7 +72,7 @@ python main.py --target maxtp
     <th>Horizon +7 Days</th>
   </tr>
   <tr>
-    <td><img src="images/pred_1.png" width="650"/></td>
-    <td><img src="images/pred_7.png" width="650"/></td>
+    <td><img src="images/pred_1.png" width="850"/></td>
+    <td><img src="images/pred_7.png" width="850"/></td>
   </tr>
 </table>
