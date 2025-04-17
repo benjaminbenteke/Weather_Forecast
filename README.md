@@ -72,7 +72,7 @@ python main.py --target maxtp
     <th>Horizon +7 Days</th>
   </tr>
   <tr>
-    <td><img src="images/pred_1.png" width="850"/></td>
-    <td><img src="images/pred_7.png" width="850"/></td>
+    <td><img src="images/pred_1.png" width="950"/></td>
+    <td><img src="images/pred_7.png" width="950"/></td>
   </tr>
 </table>
