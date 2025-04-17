@@ -1,7 +1,7 @@
 # Weather forecast using Machine learning
 
 ## Features:
-- Multi-step ahead prediction (1-day ahead and 7-day ahead)
+- Weather prediction (1-day ahead and 7-day ahead)
 - ML Models (Decision tree, Random forest)
 - Run the script
 
